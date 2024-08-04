@@ -1,7 +1,8 @@
 # Coursera-Applied-Data-Science-Capstone
 
-This repository contains assesments along with their solutions, and work files I have worked on for the 'Applied Data Science Capstone' course on Coursera. 
-Hope it will be helpful for you all.
+This repository contains assessments and their solutions, including related data files and Jupyter notebooks that I have worked on for the Applied Data Science Capstone course on Coursera.
+
+I hope you find it helpful!
 
 ## Contact
 
